@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/VOID-ECHO--Hunt-Your-Shadow/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
