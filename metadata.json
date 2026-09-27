@@ -1,0 +1,6 @@
+{
+  "name": "VOID ECHO – Hunt Your Shadow Arena",
+  "description": "Cyberpunk HTML5 Canvas action game where enemies chase your 5-second Echo Trail. Features special abilities, customizable avatars, Hunter vs Runner multiplayer, and generative synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
